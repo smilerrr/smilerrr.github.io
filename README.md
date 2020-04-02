@@ -18,3 +18,5 @@
 
 **2020년 4월 1일**
 1. 3차 프로젝트 EDA
+
+[test](https://github.com/smilerrr/smilerrr.github.io/blob/master/_post/2020-04-02-test.md)
