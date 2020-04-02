@@ -18,3 +18,9 @@
 
 **2020년 4월 1일**
 1. 3차 프로젝트 EDA
+
+**2020년 4월 2일**
+1. 2차 프로젝트 수정
+  - 
+2. [R 머신러닝 1일차[(https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-02-R.md)
+
