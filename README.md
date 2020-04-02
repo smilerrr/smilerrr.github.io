@@ -7,14 +7,14 @@
 ## Today I Learned
 
 **2020년 3월 5일**
-1. TIL 시작
+1. TIL 페이지 생성
 
 **2020년 3월 19일**
 1. 2차 프로젝트 발표
 
 **2020년 3월 31일**
 1. 파이썬 Pandas Profiling
-2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 참여
+2. 캐글 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 참여
 
 **2020년 4월 1일**
 1. 3차 프로젝트 EDA
