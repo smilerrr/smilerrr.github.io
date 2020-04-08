@@ -29,3 +29,7 @@
 **2020년 4월 7일**
 1. [파이썬 머신러닝 2일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-07-P.md)
 2. 캐글 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 재제출
+
+**2020년 4월 8일**
+1. [ADsP 자격증 공부](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-08-ADsP.md)
+2. 3차 프로젝트 피드백
