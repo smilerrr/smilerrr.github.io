@@ -27,5 +27,5 @@
 1. [R 머신러닝 2일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-03-R.md)
 
 **2020년 4월 7일**
-1. [파이썬 머신러닝 파이썬 2일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-07-P.md)
+1. [파이썬 머신러닝 2일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-07-P.md)
 2. 캐글 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 재제출
