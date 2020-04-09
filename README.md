@@ -21,21 +21,20 @@
 
 ### 2020년 4월 2일
 - 2차 프로젝트 수정
-- R 머신러닝 1일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-02-R.md)
+- R 머신러닝 1일차 
 
 ### 2020년 4월 3일
-- R 머신러닝 2일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-03-R.md)
+- R 머신러닝 2일차 
 
 ### 2020년 4월 7일
-- 파이썬 머신러닝 2일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-07-P.md)
+- 파이썬 머신러닝 2일차
 - 캐글 캐글 House Prices: Advanced Regression Techniques 재제출
 
 ### 2020년 4월 8일
-- ADsP 자격증 공부 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-08-ADsP.md)
+- ADsP 자격증 공부
 - 3차 프로젝트 피드백
 
 ### 2020년 4월 9일
-- R 머신러닝 3일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-09-R.md)
-- 인프런 : 단 두 장의 문서로 데이터 분석과 시각화 뽀개기 강좌
-    - 1~4
+- R 머신러닝 3일차 
+- 인프런 : 단 두 장의 문서로 데이터 분석과 시각화 뽀개기 강좌 1~4
 - 3차 프로젝트 EDA 
