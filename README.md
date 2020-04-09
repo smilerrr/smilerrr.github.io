@@ -21,7 +21,7 @@
 
 ### 2020년 4월 2일
 - 2차 프로젝트 수정
-- [R 머신러닝 1일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-02-R.md)
+- R 머신러닝 1일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-02-R.md)
 
 ### 2020년 4월 3일
 - [R 머신러닝 2일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-03-R.md)
