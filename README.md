@@ -14,7 +14,7 @@
 
 ### 2020년 3월 31일
 - 파이썬 Pandas Profiling
-- 캐글 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 참여
+- 캐글 House Prices: Advanced Regression Techniques 참여
 
 ### 2020년 4월 1일
 - 3차 프로젝트 EDA
@@ -28,7 +28,7 @@
 
 ### 2020년 4월 7일
 - 파이썬 머신러닝 2일차 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-07-P.md)
-- 캐글 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) 재제출
+- 캐글 캐글 House Prices: Advanced Regression Techniques 재제출
 
 ### 2020년 4월 8일
 - ADsP 자격증 공부 [바로가기](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-08-ADsP.md)
