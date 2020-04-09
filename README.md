@@ -33,3 +33,9 @@
 **2020년 4월 8일**
 1. [ADsP 자격증 공부](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-08-ADsP.md)
 2. 3차 프로젝트 피드백
+
+**2020년 4월 9일**
+1. [R 머신러닝 3일차](https://github.com/smilerrr/smilerrr.github.io/blob/master/_posts/2020-04-09-R.md)
+2. 인프런 : 단 두 장의 문서로 데이터 분석과 시각화 뽀개기 강좌
+    - 1~4
+3. 3차 프로젝트 EDA 
