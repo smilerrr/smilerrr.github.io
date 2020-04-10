@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "나메입니다."
-excerpt: "나메의 소개글입니다."
+title: "smilerrr입니다."
+excerpt: "smilerrr의 소개글입니다."
 #layouts_gallery:
 #  - url: /assets/images/mm-layout-splash.png
 #    image_path: /assets/images/mm-layout-splash.png
@@ -17,4 +17,4 @@ comment: true
 toc: true
 ---
 
-# 꾸준히 자기개발하는 개발자입니다.
+
